@@ -17,7 +17,7 @@ The following workflows are involved in the text summarizer project:
 
 ## How to Run ▶️
 
-Follow the steps below to run the project:
+Follow the steps below to run the project
 
 ##Step 1: Clone the Repository 📥
 
