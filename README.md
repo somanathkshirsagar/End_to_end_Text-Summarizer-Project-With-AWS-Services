@@ -4,7 +4,7 @@ This project aims to develop an end-to-end solution for text summarization, enab
 
 ## Workflows 🔄
 
-The following workflows are involved in the text summarizer project:
+The following workflows are involved in the text summarizer project
 
 1. 📝 Update `config.yaml`: Modify the configuration file (`config.yaml`) to customize settings based on specific project requirements.
 2. 📝 Update `params.yaml`: Adjust the parameters file (`params.yaml`) to configure specific summarization parameters according to your needs.
