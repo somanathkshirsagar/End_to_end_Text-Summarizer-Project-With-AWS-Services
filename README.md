@@ -2,7 +2,7 @@
 
 This project aims to develop an end-to-end solution for text summarization, enabling the generation of concise summaries from textual data. The project leverages AWS services and follows a structured workflow to ensure efficient summarization of information.
 
-## Workflows 🔄
+## Workflows 🔄 
 
 The following workflows are involved in the text summarizer project
 
