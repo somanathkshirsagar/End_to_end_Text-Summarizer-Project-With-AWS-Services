@@ -8,7 +8,7 @@ The following workflows are involved in the text summarizer project
 
 1. 📝 Update `config.yaml`: Modify the configuration file (`config.yaml`) to customize settings based on specific project requirements.
 2. 📝 Update `params.yaml`: Adjust the parameters file (`params.yaml`) to configure specific summarization parameters according to your needs.
-3. 📝 Update entity: Modify the entity file to include relevant entities for the summarization process.
+3. 📝 Update entity: Modify the entity file to include relevant entities for the summarization process. 
 4. 📝 Update the configuration manager in `src/config`: Make necessary updates to the configuration manager in the source code (`src/config`) to ensure proper integration of project components.
 5. 📝 Update the components: Update individual components of the text summarizer, such as data preprocessing, feature extraction, and summarization algorithms, as required.
 6. 📝 Update the pipeline: Enhance the pipeline that orchestrates the flow of data through the summarization process.
