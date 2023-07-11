@@ -1,7 +1,7 @@
 # End-to-End Text Summarizer Project 📃
 
 This project aims to develop an end-to-end solution for text summarization, enabling the generation of concise summaries from textual data. The project leverages AWS services and follows a structured workflow to ensure efficient summarization of information.
-
+https://blog.floydhub.com/content/images/2019/04/extractive.gif
 ## Workflows 🔄 
 
 The following workflows are involved in the text summarizer project
